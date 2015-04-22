@@ -8,6 +8,14 @@
 
 This app will create multiple courses with a roster or list of students in each course. It utilizes AngularJS framework, factories and controllers written in JavaScript, and AngularUI Router to organize states, which control how the user interface looks and its behavior for certain parts of the website.
 
+
+
+use AngularUI Router, which is organized around states. States describe how the user interface looks and behaves in a particular part of your application.
+
+
+
+
+
 ###Technologies Used
 
 * JavaScript
